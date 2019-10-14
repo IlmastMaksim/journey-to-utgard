@@ -13,7 +13,6 @@
 
 - There are also pick ups that buff the player.​
 
-​
 ## Technologies:
 
 - C#
