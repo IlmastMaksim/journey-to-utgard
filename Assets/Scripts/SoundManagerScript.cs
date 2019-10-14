@@ -22,6 +22,9 @@ public class SoundManagerScript : MonoBehaviour
         spikedSound = Resources.Load<AudioClip>("SpikeHitSound");
 
         audioSrc = GetComponent<AudioSource>();
+
+ 
+
     }
 
     public static void PlaySound (string clip)

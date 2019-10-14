@@ -15,7 +15,7 @@ namespace JourneyToUtgard
 
         private float scale;
 
-        private float acceleration; // how fast can the camera accelerate
+        //private float acceleration; // how fast can the camera accelerate
         public float speed; // speed of camera
 
         private float maxSpeed; // fastest the camera can go if player is within maxDistance
@@ -39,7 +39,7 @@ namespace JourneyToUtgard
             player = GameObject.Find("Player");
             playerController = player.GetComponent<PlayerController>();
 
-            acceleration = 8f;
+            //acceleration = 8f;
             speed = 0f;
 
             playerX = player.transform.position.x;

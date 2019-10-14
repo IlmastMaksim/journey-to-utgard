@@ -43,8 +43,7 @@ namespace JourneyToUtgard
         public bool dead;
         public bool partyMode;
         public bool mirrorDamage;
-        public bool ghostMode;
-        
+        public bool ghostMode;        
 
         void Start()
         {
