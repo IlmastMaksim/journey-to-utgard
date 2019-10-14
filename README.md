@@ -31,9 +31,9 @@
 
 ## Responsibilities​
 
-- Eric Keränen was responsible of all the art in the game, level design, player movement mechanics, animations, sounds and power/pick ups.​
+- **Eric Keränen** was responsible of all the art in the game, level design, player movement mechanics, animations, sounds and power/pick ups.​
 
-- Maksim Ilmast was responsible for enemy AI, player/enemy attacking mechanics, menus and the story.​
+- **Maksim Ilmast** was responsible for enemy AI, player/enemy attacking mechanics, menus and the story.​
 
-- Jere Lampola was responsible for background script, cheats, counterattacking mechanics, camera and major code polishing.​
+- **Jere Lampola** was responsible for background script, cheats, counterattacking mechanics, camera and major code polishing.​
 
